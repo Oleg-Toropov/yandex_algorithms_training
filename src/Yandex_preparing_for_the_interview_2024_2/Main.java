@@ -1,4 +1,4 @@
-package Test2;
+package Yandex_preparing_for_the_interview_2024_2;
 
 import java.util.Scanner;
 

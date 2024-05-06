@@ -1,12 +1,12 @@
-package Test1;
+package Yandex_preparing_for_the_interview_2024_1;
 
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String s1 = sc.nextLine(); //ab
-        String s2 = sc.nextLine(); //aabbccdd
+        String s1 = sc.nextLine();
+        String s2 = sc.nextLine();
         sc.close();
 
         int count = 0;
