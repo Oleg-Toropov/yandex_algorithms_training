@@ -4,11 +4,11 @@
     <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_school_2024_2" target="_blank">Яндекс (2 задание, Школа бэкенд-разработки 2024, Контест №1)</a> (Easy)</li>
     <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_school_2024_3" target="_blank">Яндекс (1 задание, Школа бэкенд-разработки 2024, Контест №2)</a> (Medium)</li>
     <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_school_2024_4" target="_blank">Яндекс (2 задание, Школа бэкенд-разработки 2024, Контест №2)</a> (Medium)</li>
-    <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_internship_2024_1" target="_blank">Яндекс (1 задание (А. Форматирование текста), Стажировка 2024, Контест)</a> (Medium)</li>
-    <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_internship_2024_2" target="_blank">Яндекс (2 задание (В. Автодополнение на минималках), Стажировка 2024, Контест)</a> (Medium)</li>
-    <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_internship_2024_3" target="_blank">Яндекс (3 задание (С. Пересекающиеся отрезки), Стажировка 2024, Контест)</a> (Medium)</li>
-    <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_internship_2024_4" target="_blank">Яндекс (4 задание (D. Игра-платформер), Стажировка 2024, Контест)</a> (Medium)</li>
-    <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_internship_2024_5" target="_blank">Яндекс (5 задание (Е. Автодополнение), Стажировка 2024, Контест)</a> (Medium)</li>
+    <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_internship_summer_2024_1" target="_blank">Яндекс (1 задание (А. Форматирование текста), Стажировка лето 2024, Контест)</a> (Medium)</li>
+    <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_internship_summer_2024_2" target="_blank">Яндекс (2 задание (В. Автодополнение на минималках), Стажировка лето 2024, Контест)</a> (Medium)</li>
+    <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_internship_summer_2024_3" target="_blank">Яндекс (3 задание (С. Пересекающиеся отрезки), Стажировка лето 2024, Контест)</a> (Medium)</li>
+    <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_internship_summer_2024_4" target="_blank">Яндекс (4 задание (D. Игра-платформер), Стажировка лето 2024, Контест)</a> (Medium)</li>
+    <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_internship_summer_2024_5" target="_blank">Яндекс (5 задание (Е. Автодополнение), Стажировка лето 2024, Контест)</a> (Medium)</li>
     <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_preparing_for_the_interview_2024_1" target="_blank">Яндекс (1 задание (А. Камни и украшения), Подготовка к собеседованию 2024, Контест)</a> (Easy)</li>
     <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_preparing_for_the_interview_2024_2" target="_blank">Яндекс (2 задание (В. Последовательно идущие единицы), Подготовка к собеседованию 2024, Контест)</a> (Easy)</li>
     <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_preparing_for_the_interview_2024_3" target="_blank">Яндекс (3 задание (С. Удаление дубликатов), Подготовка к собеседованию 2024, Контест)</a> (Easy)</li>
@@ -34,5 +34,10 @@
     <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_harb_11" target="_blank">Яндекс (Задача с сайта Harb) (Сумма интов = число-цель)</a> (Easy)</li>
     <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_harb_12" target="_blank">Яндекс (Задача с сайта Harb) (Самая длинная подстрока)</a> (Easy)</li>
     <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_harb_13" target="_blank">Яндекс (Задача с сайта Harb) (Перенос нулей в конец массива)</a> (Easy)</li>
+    <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_internship_autumn_2024_1" target="_blank">Яндекс (1 задание (А. Кроссворд), Стажировка осень 2024, Контест)</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_internship_autumn_2024_2" target="_blank">Яндекс (2 задание (B. Медианы подотрезков), Стажировка осень 2024, Контест)</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_internship_autumn_2024_3" target="_blank">Яндекс (3 задание (С. Альтернативная история), Стажировка осень 2024, Контест)</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_internship_autumn_2024_4" target="_blank">Яндекс (4 задание (D. Правильная последовательность), Стажировка осень 2024, Контест)</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/yandex_algorithms_training/tree/main/src/Yandex_internship_autumn_2024_5" target="_blank">Яндекс (5 задание (Е. Неэффективный поиск), Стажировка осень 2024, Контест)</a> (?)</li>
 
 </ol>
